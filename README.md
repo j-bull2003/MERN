@@ -12,7 +12,20 @@ The project requires a mandatory sign up/login module, database design, and visu
 
 To run the backend locally, follow these steps:
 
-1. [insert step-by-step instructions for setting up and running the backend]
+1. Install Railway:
+
+npm i -g @railway/cli
+# or
+yarn global add @railway/cli
+
+2. Login to Railway:
+
+railway login
+
+3. Go to your project folder and link to Railway
+
+cd /path/to/project
+railway link your-project-id
 
 To run the frontend locally, follow these steps:
 
