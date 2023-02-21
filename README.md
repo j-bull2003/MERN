@@ -1,6 +1,10 @@
 # Project Name
 
-This project is divided into two parts: the backend, which is deployed live at https://right-sofa-production.up.railway.app, and the frontend, which can be accessed at https://silver-biscochitos-13ea6c.netlify.app.
+Live deployment for backend:
+https://right-sofa-production.up.railway.app
+
+Live deployment for frontend: 
+https://silver-biscochitos-13ea6c.netlify.app.
 
 ## Overview
 
