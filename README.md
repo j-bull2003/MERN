@@ -33,7 +33,9 @@ The backend is currently deployed live at https://right-sofa-production.up.railw
   
 The frontend is currently deployed live at https://silver-biscochitos-13ea6c.netlify.app. To deploy the frontend yourself, follow these steps:
 
-
+1. Run this command to create the build: "npm install --legacy-peer-deps --prefix client && npm run build --prefix client"
+3. This will create a new folder called 'build' inside of 'client' 
+3. Open this website https://app.netlify.com/ and create a new project (site) and select "deploy manually" and drag and drop the 'build' folder onto the site.
 
 ---
 
