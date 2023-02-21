@@ -22,16 +22,16 @@ The backend is currently deployed live at https://right-sofa-production.up.railw
 2. Open the project file in an IDE, such as Visual Studio Code
 3. Go to this link and set up a railway account
 4. In your VSC terminal type the following commands:
-4a. "brew install railway" 
-4b. "brew install railway"
-4c. "railway login"
+* "brew install railway" 
+* "brew install yarn"
+* "railway login"
 5. Go to the railway website where you created an account and create a new project.
-5a. Select "Empty Project"
-5b. Then select "Set up your project locally"
+* Select "Empty Project"
+* Then select "Set up your project locally"
 6. After this, the website will provide you with the final three commands to enter into your VSC terminal, they are similar to what follows:
-6a. Install railway CLI - (by brew, npm, curl or scoop) copy and paste the URL they provide into your terminal
-6b. Connect to this project - railway link ....... 
-6c. This final command "railway up" will deploy the backend application and provide you with a link where the "deployment is live at"
+* Install railway CLI - (by brew, npm, curl or scoop) copy and paste the URL they provide into your terminal
+* Connect to this project - railway link ....... 
+* This final command "railway up" will deploy the backend application and provide you with a link where the "deployment is live at"
   
   
 The frontend is currently deployed live at https://silver-biscochitos-13ea6c.netlify.app. To deploy the frontend yourself, follow these steps:
