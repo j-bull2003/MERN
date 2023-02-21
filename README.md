@@ -24,20 +24,10 @@ The frontend is currently deployed live at https://silver-biscochitos-13ea6c.net
 
 1. [insert step-by-step instructions for deploying the frontend]
 
-## Contributing
-
-If you would like to contribute to this project, please follow these guidelines:
-
-1. [insert contribution guidelines here]
-
-## License
-
-This project is licensed under the [insert license name and link to license file here] license.
+---
 
 ## Acknowledgments
 
-We would like to thank [insert names of people or organizations who contributed to the project here] for their help and support in creating this project.
+We would like to thank the Therapy Box for your support in creating this project.
 
----
 
-Feel free to customize this template to fit your specific project needs! Remember that a good README file is essential for helping other developers understand your project and contributing to open source communities.
