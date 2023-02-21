@@ -1,11 +1,5 @@
 # Project Name
 
-Live deployment for backend:
-https://right-sofa-production.up.railway.app
-
-Live deployment for frontend: 
-https://silver-biscochitos-13ea6c.netlify.app.
-
 ## Overview
 
 The purpose of this project is to [insert project goal or objective here]. The backend is built using [insert backend technology or framework here], and the frontend is built using [insert frontend technology or framework here]. Together, they provide a [insert brief summary of project functionality here].
