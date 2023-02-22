@@ -37,6 +37,8 @@ The frontend is currently deployed live at https://silver-biscochitos-13ea6c.net
 3. This will create a new folder called 'build' inside of 'client' 
 3. Open this website https://app.netlify.com/ and create a new project (site) and select "deploy manually" and drag and drop the 'build' folder onto the site.
 
+To run the project on your local host, run this command: "NODE_ENV=production npm start"
+
 ---
 
 ## Acknowledgments
