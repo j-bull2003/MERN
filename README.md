@@ -10,7 +10,7 @@ The project requires a mandatory sign up/login module, database design, and visu
 
 ## Deployment
 
-The backend is currently deployed live at https://right-sofa-production.up.railway.app. To deploy the backend yourself, follow these steps:
+The backend is currently deployed live at loose-popcorn-production.up.railway.app. To deploy the backend yourself, follow these steps:
 
 1. Download the project zip file and save somewhere locally on your computer
 2. Open the project file in an IDE, such as Visual Studio Code
@@ -31,7 +31,7 @@ The backend is currently deployed live at https://right-sofa-production.up.railw
 8. Go to the path client/src/Config/api.jsx and update the "apiURL"
   
   
-The frontend is currently deployed live at https://silver-biscochitos-13ea6c.netlify.app. To deploy the frontend yourself, follow these steps:
+The frontend is currently deployed live at https://teal-lebkuchen-cb6a95.netlify.app. To deploy the frontend yourself, follow these steps:
 
 1. Run this command to create the build: "npm install --legacy-peer-deps --prefix client && npm run build --prefix client"
 3. This will create a new folder called 'build' inside of 'client' 
