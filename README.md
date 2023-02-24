@@ -33,6 +33,7 @@ The backend is currently deployed live at loose-popcorn-production.up.railway.ap
   
 The frontend is currently deployed live at https://teal-lebkuchen-cb6a95.netlify.app. To deploy the frontend yourself, follow these steps:
 
+In case anything is already installed run the command: "rm -rf node_modules && npm install"
 1. Run this command to create the build: "npm install --legacy-peer-deps --prefix client && npm run build --prefix client"
 3. This will create a new folder called 'build' inside of 'client' 
 3. Open this website https://app.netlify.com/ and create a new project (site) and select "deploy manually" and drag and drop the 'build' folder onto the site.
