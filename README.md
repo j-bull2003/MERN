@@ -43,6 +43,6 @@ To run the project on your local host, run this command: "NODE_ENV=production np
 
 ## Acknowledgments
 
-We would like to thank the Therapy Box for your support in creating this project.
+I would like to thank the Therapy Box for your support in creating this project.
 
 
